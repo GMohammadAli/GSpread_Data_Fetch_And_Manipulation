@@ -10,4 +10,4 @@ Project Setup -->
 - 6] The json file ([JSON Data](src/utils/spreadsheetData.json)) will have the data of the first column of the your spreadsheet
 - 7] Run npm run dev
 
-- [Demo](public/Demo.gif)
+- public/Demo.gif
